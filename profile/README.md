@@ -1,47 +1,24 @@
 # WokSpec
 
-**AI-native creative suite and infrastructure for the next generation of builders.**
+<p align="center">
+  <img src="https://via.placeholder.com/1400x420/0A0F1E/FFFFFF?text=WokSpec+Ecosystem" alt="WokSpec hero" />
+</p>
 
-Build a site. Launch a product. Add AI. Ship tools people actually use.
-Every pixel is intentional. Every line of code is hardened.
+WokSpec is an AI-native creative suite and infrastructure for the next generation of builders. Build a site. Launch a product. Add AI. Ship tools people actually use. Every pixel is intentional. Every line of code is hardened.
 
-[wokspec.org](https://wokspec.org) · [Community](https://github.com/WokSpec/Community)
+## Flagship Monorepo
+- **Studio** — Flagship Suite. Pixel Art, Vector, Brand, and 80+ Developer Utilities. (Live · Premium)
+- **Eral** — Intelligence Layer: AI runtime, persistent memory, browser intelligence. (Live · FSL)
+- **Site** — Core marketing, dashboard, and unified user platform. (Live · Private)
+- **Autiladus** — Automation: AI-native web automation engine. (Lives at https://github.com/autiladus/autiladus)
 
----
+## Featured projects
+- [Nikita](https://github.com/wokspec/Nikita) — AI runtime (brand: **Nikita pink** `#FF2D95`)
+- [WokHei](https://github.com/wokspec/WokHei) — Core UI components
+- [WokForge](https://github.com/wokspec/WokForge) — Web automation platform
 
-## 🚀 Flagship Monorepo
+## Open Source & Infrastructure
+We prioritize Edge runtimes, Next.js 15, and Tailwind 4. Public repos are curated for contribution; cores and live infrastructure remain private as needed.
 
-The WokSpec ecosystem is now unified into a single, high-fidelity monorepo.
-
-| Application | Description | Status |
-|---|---|---|
-| **[Studio](https://studio.wokspec.org)** | **Flagship Suite.** Unified studio for Pixel Art, Vector, Brand, and 80+ Developer Utilities. | Live · Premium |
-| **[Eral](https://eral.wokspec.org)** | **Intelligence Layer.** AI runtime, persistent memory, and browser intelligence. | Live · FSL |
-| **[Site](https://wokspec.org)** | **Core.** The marketing presence, dashboard, and unified user platform. | Live · Private |
-| **[Autiladus](https://autilad.us)** | **Automation.** AI-native web automation engine. (Lives at [github.com/autiladus](https://github.com/autiladus)) | Live · Flagship |
-
----
-
-## 🏗️ Open Source & Infrastructure
-
-We prioritize **Edge Runtimes**, **Next.js 15**, and **Tailwind 4**.
-Our public repositories are being consolidated to ensure the highest standards of engineering and design.
-
-### Core Repositories
-- **[monorepo](https://github.com/WokSpec/WokSite)**: The primary workspace for WokSpec products.
-- **[Eral](https://github.com/WokSpec/Eral)**: AI runtime source.
-- **[Autiladus](https://github.com/autiladus/autiladus)**: AI-native web automation.
-- **[Dilu](https://github.com/WokSpec/Dilu)**: No-code launch platform.
-
-### Standards
-- **Senior Product Designer Persona**: Strict 4px/8px grids, Lucide icons, mandatory skeleton states.
-- **Backend Hardening**: Zod validation, Redis rate-limiting, secure Edge runtimes.
-
----
-
-## ⚖️ License & Rights
-
-Source-available repositories use **FSL-1.1-MIT** unless otherwise specified.
-WokSpec infrastructure and certain product cores remain private while serving live traffic.
-
-[Security Policy](https://github.com/WokSpec/.github/security/policy) · [Trademarks](https://wokspec.org/trademarks)
+## Community & Contribution
+Follow the issue and PR templates in this repo for a streamlined contribution flow. Contact: security@wokspec.org • hello@wokspec.org
