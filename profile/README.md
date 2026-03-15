@@ -30,6 +30,7 @@ Our public repositories are being consolidated to ensure the highest standards o
 ### Core Repositories
 - **[monorepo](https://github.com/WokSpec/WokSite)**: The primary workspace for WokSpec products.
 - **[Eral](https://github.com/WokSpec/Eral)**: AI runtime source.
+- **[Autiladus](https://github.com/autiladus/autiladus)**: AI-native web automation.
 - **[Dilu](https://github.com/WokSpec/Dilu)**: No-code launch platform.
 
 ### Standards
