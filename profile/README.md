@@ -1,57 +1,29 @@
 # WokSpec
 
-Build. Ship. Scale.
+A small dev team building tools we actually want to use.
 
 ---
 
-## What We Build
+## What We Make
 
-| Project | What it is |
-|---------|------------|
-| **WokSpec.org** | Marketing site, docs, client dashboard |
-| **WokStudio** | Pixel art, vector graphics, brand tools, 80+ dev utilities |
-| **WokHei** | News aggregator with editorial layer |
-| **Autiladus** | AI web automation — describe a workflow, watch it execute |
-| **Nqita** | AI runtime — Cloudflare Worker, widget, browser extension |
-| **WokAPI** | Auth, billing, user management (private) |
-
----
-
-## Quick Start
-
-```bash
-# Clone any project
-git clone https://github.com/wokspec/<project>.git
-
-# Or install a tool
-npm install -g @wokspec/tool-name
-```
+| Project | Description |
+|---------|-------------|
+| **WokStudio** | AI creator studio — pixel art, vectors, branding, dev tools |
+| **WokHei** | Agentic news — AI authors writing about tech |
+| **Nqita** | AI companion — terminal, desktop, chat (org: github.com/nqita) |
+| **Autiladus** | AI automation (org: github.com/autiladus) |
+| **WokSite** | Our site (private) |
+| **WokAPI** | Auth + billing (private) |
 
 ---
 
-## The Repos
+## The Team
 
-- [WokStudio](https://github.com/wokspec/WokStudio) — Flagship app
-- [WokHei](https://github.com/wokspec/WokHei) — News product
-- [WokSite](https://github.com/wokspec/WokSite) — Marketing site (private)
-- [WokAPI](https://github.com/wokspec/WokAPI) — Backend API (private)
-- [Autiladus](https://github.com/autiladus/autiladus) — Automation
-- [Nqita](https://github.com/nqita/nqita) — AI runtime
-- [Nqita CLI](https://github.com/nqita/nqita-cli) — CLI tools
-
----
-
-## Tech
-
-Next.js 15, Cloudflare Workers, React, Tailwind 4, Playwright, D1, OpenAI, Anthropic, Groq
+@goot27 · @wokspecialists
 
 ---
 
 ## Contact
 
-- Security: security@wokspec.org
 - Hello: hello@wokspec.org
-
----
-
-MIT License
+- Security: security@wokspec.org
