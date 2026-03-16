@@ -1,98 +1,57 @@
-# WokSpec — AI-Native Creative Suite
+# WokSpec
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wokspec/.github/main/assets/wokspec-hero.svg" alt="WokSpec" />
-</p>
-
-*Build. Ship. Scale. Every pixel intentional. Every line hardened.*
+Build. Ship. Scale.
 
 ---
 
-## The Ecosystem
+## What We Build
 
-WokSpec is an AI-native creative suite and infrastructure for the next generation of builders. One platform, endless possibilities.
-
-### Flagship Products
-
-| Product | Description | Status |
-|---------|-------------|--------|
-| **WokStudio** | Flagship suite: Pixel Art, Vector, Brand, 80+ Developer Tools | Live · Premium |
-| **WokHei** | News aggregation with editorial layer | Live |
-| **Autiladus** | AI-native web automation | Live |
-
-### AI Infrastructure
-
-| Product | Description |
-|---------|-------------|
-| **nqita** | AI runtime - Cloudflare Worker, widget, browser extension |
-| **Eral** | Intelligence layer - persistent memory, browser intelligence |
+| Project | What it is |
+|---------|------------|
+| **WokSpec.org** | Marketing site, docs, client dashboard |
+| **WokStudio** | Pixel art, vector graphics, brand tools, 80+ dev utilities |
+| **WokHei** | News aggregator with editorial layer |
+| **Autiladus** | AI web automation — describe a workflow, watch it execute |
+| **Nqita** | AI runtime — Cloudflare Worker, widget, browser extension |
+| **WokAPI** | Auth, billing, user management (private) |
 
 ---
 
 ## Quick Start
 
 ```bash
-# Install WokStudio
-git clone https://github.com/wokspec/WokStudio.git
-cd WokStudio
-npm install
+# Clone any project
+git clone https://github.com/wokspec/<project>.git
 
-# Run locally
-npm run dev
+# Or install a tool
+npm install -g @wokspec/tool-name
 ```
 
 ---
 
-## Repositories
+## The Repos
 
-### Core
-- [WokStudio](https://github.com/wokspec/WokStudio) — Main application
+- [WokStudio](https://github.com/wokspec/WokStudio) — Flagship app
 - [WokHei](https://github.com/wokspec/WokHei) — News product
-- [WokAPI](https://github.com/wokspec/WokAPI) — Auth, billing, routing (private)
-
-### AI
-- [nqita](https://github.com/nqita/nqita) — AI runtime
-- [nqita-cli](https://github.com/nqita/nqita-cli) — CLI tools
-
-### Automation
-- [Autiladus](https://github.com/autiladus/autiladus) — Web automation
+- [WokSite](https://github.com/wokspec/WokSite) — Marketing site (private)
+- [WokAPI](https://github.com/wokspec/WokAPI) — Backend API (private)
+- [Autiladus](https://github.com/autiladus/autiladus) — Automation
+- [Nqita](https://github.com/nqita/nqita) — AI runtime
+- [Nqita CLI](https://github.com/nqita/nqita-cli) — CLI tools
 
 ---
 
-## Tech Stack
+## Tech
 
-| Layer | Technology |
-|-------|------------|
-| Runtime | Cloudflare Workers, Next.js 15 |
-| UI | React 19, Tailwind CSS 4, Radix UI |
-| Database | D1 (SQLite at edge), KV, Redis |
-| AI | OpenAI, Anthropic, Groq, Google Gemini |
-| Browser | Playwright, Puppeteer |
-
----
-
-## Philosophy
-
-- **Edge-first** — Deploy globally, run locally
-- **Open core** — Public repos curated for contribution
-- **Hardened code** — Production-ready, not prototypes
-- **User-owned** — Bring your own keys, no lock-in
-
----
-
-## Community
-
-- **Discussions**: [github.com/wokspec/Community](https://github.com/wokspec/Community)
-- **Docs**: [github.com/wokspec/WokDocs](https://github.com/wokspec/WokDocs)
+Next.js 15, Cloudflare Workers, React, Tailwind 4, Playwright, D1, OpenAI, Anthropic, Groq
 
 ---
 
 ## Contact
 
-- **Security**: security@wokspec.org
-- **General**: hello@wokspec.org
-- **Twitter**: @wokspec
+- Security: security@wokspec.org
+- Hello: hello@wokspec.org
 
 ---
 
-MIT License · Built by WokSpec
+MIT License
