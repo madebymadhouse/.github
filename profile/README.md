@@ -1,24 +1,98 @@
-# WokSpec
+# WokSpec — AI-Native Creative Suite
 
 <p align="center">
-  <img src="https://via.placeholder.com/1400x420/0A0F1E/FFFFFF?text=WokSpec+Ecosystem" alt="WokSpec hero" />
+  <img src="https://raw.githubusercontent.com/wokspec/.github/main/assets/wokspec-hero.svg" alt="WokSpec" />
 </p>
 
-WokSpec is an AI-native creative suite and infrastructure for the next generation of builders. Build a site. Launch a product. Add AI. Ship tools people actually use. Every pixel is intentional. Every line of code is hardened.
+*Build. Ship. Scale. Every pixel intentional. Every line hardened.*
 
-## Flagship Monorepo
-- **Studio** — Flagship Suite. Pixel Art, Vector, Brand, and 80+ Developer Utilities. (Live · Premium)
-- **Eral** — Intelligence Layer: AI runtime, persistent memory, browser intelligence. (Live · FSL)
-- **Site** — Core marketing, dashboard, and unified user platform. (Live · Private)
-- **Autiladus** — Automation: AI-native web automation engine. (Lives at https://github.com/autiladus/autiladus)
+---
 
-## Featured projects
-- [Nikita](https://github.com/wokspec/Nikita) — AI runtime (brand: **Nikita pink** `#FF2D95`)
-- [WokHei](https://github.com/wokspec/WokHei) — Core UI components
-- [WokForge](https://github.com/wokspec/WokForge) — Web automation platform
+## The Ecosystem
 
-## Open Source & Infrastructure
-We prioritize Edge runtimes, Next.js 15, and Tailwind 4. Public repos are curated for contribution; cores and live infrastructure remain private as needed.
+WokSpec is an AI-native creative suite and infrastructure for the next generation of builders. One platform, endless possibilities.
 
-## Community & Contribution
-Follow the issue and PR templates in this repo for a streamlined contribution flow. Contact: security@wokspec.org • hello@wokspec.org
+### Flagship Products
+
+| Product | Description | Status |
+|---------|-------------|--------|
+| **WokStudio** | Flagship suite: Pixel Art, Vector, Brand, 80+ Developer Tools | Live · Premium |
+| **WokHei** | News aggregation with editorial layer | Live |
+| **Autiladus** | AI-native web automation | Live |
+
+### AI Infrastructure
+
+| Product | Description |
+|---------|-------------|
+| **nqita** | AI runtime - Cloudflare Worker, widget, browser extension |
+| **Eral** | Intelligence layer - persistent memory, browser intelligence |
+
+---
+
+## Quick Start
+
+```bash
+# Install WokStudio
+git clone https://github.com/wokspec/WokStudio.git
+cd WokStudio
+npm install
+
+# Run locally
+npm run dev
+```
+
+---
+
+## Repositories
+
+### Core
+- [WokStudio](https://github.com/wokspec/WokStudio) — Main application
+- [WokHei](https://github.com/wokspec/WokHei) — News product
+- [WokAPI](https://github.com/wokspec/WokAPI) — Auth, billing, routing (private)
+
+### AI
+- [nqita](https://github.com/nqita/nqita) — AI runtime
+- [nqita-cli](https://github.com/nqita/nqita-cli) — CLI tools
+
+### Automation
+- [Autiladus](https://github.com/autiladus/autiladus) — Web automation
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| Runtime | Cloudflare Workers, Next.js 15 |
+| UI | React 19, Tailwind CSS 4, Radix UI |
+| Database | D1 (SQLite at edge), KV, Redis |
+| AI | OpenAI, Anthropic, Groq, Google Gemini |
+| Browser | Playwright, Puppeteer |
+
+---
+
+## Philosophy
+
+- **Edge-first** — Deploy globally, run locally
+- **Open core** — Public repos curated for contribution
+- **Hardened code** — Production-ready, not prototypes
+- **User-owned** — Bring your own keys, no lock-in
+
+---
+
+## Community
+
+- **Discussions**: [github.com/wokspec/Community](https://github.com/wokspec/Community)
+- **Docs**: [github.com/wokspec/WokDocs](https://github.com/wokspec/WokDocs)
+
+---
+
+## Contact
+
+- **Security**: security@wokspec.org
+- **General**: hello@wokspec.org
+- **Twitter**: @wokspec
+
+---
+
+MIT License · Built by WokSpec
