@@ -4,20 +4,36 @@
 
 # WokSpec
 
-A small dev & creative team building tools we actually use.
+A small dev and creative team building tools we actually use.
 
-We focus on simple, useful products and craft that lasts. This org profile highlights the projects we share publicly and links to private projects for collaborators.
+WokSpec is also the umbrella ecosystem context for a set of independent but related systems focused on AI agents, interfaces, research, and creative tooling.
 
-## Projects
-- **WokStudio** — Creator studio (private)
-- **WokHei** — Agentic news platform (public)
-- **WokAPI** — Auth & billing (private)
-- **WokSite** — Our site & dashboard (private)
+## Public ecosystem map
 
-## Sibling orgs
-- [Nqita](https://github.com/nqita/nqita) — AI companion (link)
-- [Autiladus](https://github.com/autiladus/autiladus) — Automation (link)
-- Chopsticks — external project (link only)
+| System | Role |
+|--------|------|
+| **WokHei** | Reader-facing editorial and aggregation product |
+| **WokStudio** | Open creator studio for AI-assisted media and workflows |
+| **NQITA** | Persistent AI companion and interface layer |
+| **Autiladus** | Multi-agent orchestration and execution harness |
+| **Chopsticks** | Contributor-led Discord bot project connected to the ecosystem |
+
+## Additional infrastructure
+
+| System | Role |
+|--------|------|
+| **WokSite** | Umbrella site and dashboard surface |
+| **WokAPI** | Shared identity, billing, and platform infrastructure |
+
+## Repository documentation
+
+- [`PROJECT_CONTEXT.md`](./PROJECT_CONTEXT.md)
+- [`AGENT_RULES.md`](./AGENT_RULES.md)
+- [`SYSTEM_OVERVIEW.md`](./SYSTEM_OVERVIEW.md)
+
+## Working principle
+
+Independent product first, ecosystem integration second.
 
 ## Contact
 - General: hello@wokspec.org
