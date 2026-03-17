@@ -20,12 +20,14 @@ AI-powered author intelligence, news, and research.
 
 Persistent AI companion that lives persistently across your CLI, desktop, and chat. Not a chatbot — a presence.
 
+### [Chopsticks](https://github.com/goot27/chopsticks) — Discord bot
+
+Production-grade Discord bot. Contributor-led project [goot27](https://github.com/goot27).
+
 ---
 
 Have any questions? · hello@wokspec.org
 
 ---
 
-### [Chopsticks](https://github.com/goot27/chopsticks) — Discord bot
 
-Production-grade Discord bot. Contributor-led project [goot27](https://github.com/goot27).
