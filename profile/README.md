@@ -6,9 +6,6 @@ Building in the open.
 
 ## Projects
 
-### [Orinadus](https://github.com/orinadus) — News platform
-AI-powered author intelligence and research.
-
 ### [NQITA](https://github.com/nqita) — Persistent AI companion
 [![NQITA Discord](https://img.shields.io/badge/Discord-NQITA-5865F2?logo=discord&logoColor=white)](https://discord.gg/juunCaGpTW)
 
@@ -19,6 +16,9 @@ An AI companion that lives persistently across your CLI, desktop, and chat. Not 
 
 Multi-agent orchestration harness. Designed to run agents in parallel with clear reasoning boundaries.
 
+### [Orinadus](https://github.com/orinadus) — News platform
+AI-powered author intelligence and research.
+
 ### [WokStudio](https://github.com/wokspec/WokStudio) — AI creator studio
 
 ### [Chopsticks](https://github.com/goot27/chopsticks) — Discord bot
@@ -27,4 +27,4 @@ Production-grade Discord bot. Contributor-led project by [goot27](https://github
 
 ---
 
-wokspec.org · hello@wokspec.org
+Have any questions? · hello@wokspec.org
