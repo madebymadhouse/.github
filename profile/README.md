@@ -4,7 +4,7 @@
 
 ## Projects
 
-## [WokStudio](https://github.com/wokspec/WokStudio) AI creator studio
+## [WokStudio](https://github.com/wokspec/WokStudio) - AI creator studio
 
 ### [Autiladus](https://github.com/autiladus) [![Autiladus Discord](https://img.shields.io/badge/Discord-Autiladus-5865F2?logo=discord&logoColor=white)](https://discord.gg/T5KnUgAKK3)
 
