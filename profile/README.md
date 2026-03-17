@@ -1,6 +1,4 @@
-## [WokSpec](https://wokspec.org)
-
-### Building in the open.
+## [WokSpec](https://wokspec.org) ### Building in the open.
 
 ## [WokStudio](https://github.com/wokspec/WokStudio)
 
