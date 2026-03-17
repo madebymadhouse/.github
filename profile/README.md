@@ -23,9 +23,6 @@ Multi-agent orchestration harness. Designed to run agents in parallel with clear
 ### [WokStudio](https://github.com/wokspec/WokStudio) — AI creator studio
 Open-source studio for AI-assisted image, video, and media generation workflows.
 
-### [WokAPI](https://github.com/wokspec/WokAPI) — Platform infrastructure
-Shared auth, identity, billing, and AI token routing layer for the ecosystem.
-
 ### [Chopsticks](https://github.com/goot27/chopsticks) — Discord bot
 [![Egg Fried Rice Discord](https://img.shields.io/badge/Discord-Egg_Fried_Rice-5865F2?logo=discord&logoColor=white)](https://discord.gg/B7Bhuherkn)
 
