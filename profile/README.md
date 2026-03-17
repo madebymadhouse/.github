@@ -10,7 +10,7 @@
 
 Agent legion orchestration harness. Designed to run agents in parallel with clear reasoning boundaries.
 
-### [Orinadus](https://github.com/orinadus) 
+### [Orinadus](https://github.com/orinadus)
 
 AI-powered author intelligence, news, and research.
 
