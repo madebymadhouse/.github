@@ -1,10 +1,10 @@
-# WokSpec
+## [WokSpec](https://wokspec.org)
 
-Building in the open.
+###Building in the open.
 
 ## [WokStudio](https://github.com/wokspec/WokStudio)
-###WokSpec's AI creator studio
 
+### WokSpec's AI creator studio
 
 ---
 
