@@ -2,6 +2,10 @@
 
 Building in the open.
 
+## [WokStudio](https://github.com/wokspec/WokStudio)
+###WokSpec's AI creator studio
+
+
 ---
 
 ## Projects
@@ -17,10 +21,6 @@ Agent legion orchestration harness. Designed to run agents in parallel with clea
 ### [Orinadus](https://github.com/orinadus)
 
 AI-powered author intelligence, news, and research.
-
-### [WokStudio](https://github.com/wokspec/WokStudio) —
-
-WokSpec's AI creator studio
 
 ---
 
