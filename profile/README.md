@@ -2,7 +2,7 @@
 
 > Web3 and AI infrastructure
 
-Hey, [Samuel](https://github.com/ws-sam) here — founder and solo builder (for now). Welcome to WokSpec's Github
+"Hey, [Samuel](https://github.com/ws-sam) here — founder and solo builder (for now). Welcome to WokSpec's Github" - [Samuel](https://github.com/ws-sam)
 
 ---
 
