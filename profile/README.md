@@ -22,7 +22,7 @@
 
 ---
 
-## Looking for Contributors
+## Looking for Contributors / I need lots of help
 
 Early stage means every role matters. We're looking for:
 
