@@ -26,7 +26,7 @@ Hey, [Samuel](https://github.com/ws-sam) here — founder and solo builder (for 
 
 ## Looking for Contributors
 
-**[Samuel's](https://github.com/ws-sam) note: This is *[me](https://github.com/ws-sam). I'm one guy with big dreams and a laptop. Early stage means every role matters:
+**[Samuel's](https://github.com/ws-sam) note: I'm one guy with big dreams and a laptop. Early stage means every role matters. I need extensive amounts of help.:
 
 - **Designers** — UI/UX for Web3 dashboards and data interfaces
 - **Artists / Illustrators** — Nqita character art, game assets, brand visuals  
