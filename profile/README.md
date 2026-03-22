@@ -1,21 +1,30 @@
 # WokSpec
-
-We build AI systems, platforms, and infrastructure.
-
----
+Growing Web3 and AI infrastructure
 
 ### Products
 
-**[NQITA](https://github.com/nqyta)** — AI companion that runs as an OS-level overlay. Moods, memory, persistent presence.
 
-**[Orinadus](https://github.com/orynadus)** — AI author intelligence and research tooling.
+**[Autiladus](https://autiladus.wokspec.org)** — Client services: sites, systems, automations. Small team, fast delivery.
 
-**[Autiladus](https://autiladus.wokspec.org)** — Client services. Sites, systems, and automations. Small team, fast turnaround.
+**[Orinadus](https://github.com/orynadus)** — Web3 research and intelligence platform. AI Authors. 
 
-**[WokStudio](https://github.com/wokspec/WokStudio)** — AI creator studio for generative media and content tooling.
-
-**[Chopsticks](https://github.com/goot27/chopsticks)** — Production Discord bot. Contributor-led.
+**[NQITA](https://github.com/nqyta)** — AI companion with OS-level overlay. Moods, memory, persistent presence.
 
 ---
 
-[wokspec.org](https://wokspec.org) · hello@wokspec.org
+Web3 Infrastructure 
+├── Fast blockchain data access (wallets, tokens, transactions)
+├── Wallet authentication & permissions  
+├── Cross-chain compatibility (ETH, Solana, Base, etc.)
+└── Real-time on-chain event streaming
+
+AI Infrastructure
+├── Model orchestration (Claude, Grok, Llama)
+├── Persistent memory systems
+├── Multi-platform AI presence (Discord, web, desktop overlay)
+└── Web3-aware AI (understands wallets, tokens, on-chain behavior)
+
+---
+
+[wokspec.org](https://wokspec.org) · [hello@wokspec.org](mailto:hello@wokspec.org) · [WokStudio](https://github.com/wokspec/WokStudio)
+
