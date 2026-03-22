@@ -12,17 +12,17 @@ Growing Web3 and AI infrastructure
 
 ---
 
-Web3 Infrastructure 
-├── Fast blockchain data access (wallets, tokens, transactions)
-├── Wallet authentication & permissions  
-├── Cross-chain compatibility (ETH, Solana, Base, etc.)
-└── Real-time on-chain event streaming
+## Web3 Infrastructure
+- Blockchain data access (wallets, tokens, transactions)
+- Wallet authentication & permissions  
+- Cross-chain compatibility (ETH, Solana, Base, etc.)
+- Real-time on-chain event streaming
 
-AI Infrastructure
-├── Model orchestration (Claude, Grok, Llama)
-├── Persistent memory systems
-├── Multi-platform AI presence (Discord, web, desktop overlay)
-└── Web3-aware AI (understands wallets, tokens, on-chain behavior)
+## AI Infrastructure
+- Model orchestration (Claude, Grok, Llama)
+- Persistent memory systems
+- Multi-platform AI presence (Discord, web, desktop overlay)
+- Web3-aware AI (understands wallets, tokens, on-chain behavior)
 
 ---
 
