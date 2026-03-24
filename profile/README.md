@@ -12,7 +12,7 @@
 
 **[Nqita](https://wokspec.org)** 
 
-**[Witgam](https://wokspec.org)** 
+**[witgam](https://wokspec.org)** 
 
 ---
 
