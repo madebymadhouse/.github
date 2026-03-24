@@ -1,6 +1,6 @@
 # WokSpec
 
-> Web3 and AI infrastructure
+> Web3 and AI infrastructure -- Amongst other things...
 
 ---
 
