@@ -1,9 +1,7 @@
 # WokSpec
 
 > Web3 and AI infrastructure
-
-"Hey, [Samuel](https://github.com/ws-sam) here — founder and solo builder (for now). Welcome to WokSpec's Github" - [Samuel](https://github.com/ws-sam)
-
+> 
 ---
 
 ## Umbrella
@@ -26,7 +24,7 @@
 
 ## Looking for Contributors
 
-** Note: I'm one guy with a laptop and a dream. Early stage means every role matters. I need extensive amounts of help.
+> **[Samuel's](https://github.com/ws-sam) Note:** I'm one guy with a laptop and a dream. Early stage means every role matters. I need extensive amounts of help.
 
 - **Designers** — UI/UX for Web3 dashboards and data interfaces
 - **Artists / Illustrators** — Nqita character art, game assets, brand visuals  
