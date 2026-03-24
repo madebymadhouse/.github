@@ -6,13 +6,13 @@
 
 ## Umbrella
 
-**[Orinadus](https://orinadus.wokspec.org)**
+**[Autiladus](https://autiladus.wokspec.org)** In plan mode
 
-**[Autiladus](https://autiladus.wokspec.org)** 
+**[Orinadus](https://orinadus.wokspec.org)** Overseer. Gwang, Allen, Tofu (sentient dog thingie)
 
-**[Nqita](https://wokspec.org)** 
+**[Nqita](https://wokspec.org)** OS level agentic companion
 
-**[witgam](https://wokspec.org)** 
+**[witgam](https://wokspec.org)** Learn AI suitable to all ages
 
 ---
 
