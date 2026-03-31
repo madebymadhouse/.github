@@ -6,7 +6,7 @@
 
 ## ☂︎ Umbrella
 
-### **[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics 
+### **[⍜ Orinadus](https://orinadus.com)** — AI Evaluation & Informatics 
 
 ---
 
@@ -32,7 +32,7 @@ See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.
 
 > #### **[🖵 liquidock](https://github,com/ws-sam/liquidock)** 
 
-> #### **[⌁ claude-mileage](https://github.com/ws-sam/claude-mileage)** 
+> #### **[claude-mileage](https://github.com/ws-sam/claude-mileage)** 
 
 > #### **[chopsticks](https://chopsticks.wokspec.org)**
 
