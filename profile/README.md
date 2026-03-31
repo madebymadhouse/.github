@@ -8,13 +8,13 @@
 
 ### **[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics 
 
-> **[claude-mileage](https://github.com/ws-sam/claude-mileage)** 
+> **[👺 claude-mileage](https://github.com/ws-sam/claude-mileage)** 
 
-> **[chopsticks](https://chopsticks.wokspec.org)**
+> **[🥢 Chopsticks](https://chopsticks.wokspec.org)**
 
-> **[liquidock](https://github,com/ws-sam/liquidock)** 
+> **[⎅ Liquidock](https://github,com/ws-sam/liquidock)** 
 
-> **[witgam](https://github,com/witgam)** 
+> **[🦊 Witgam](https://github,com/witgam)** 
 
 ---
 
