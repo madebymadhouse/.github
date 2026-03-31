@@ -26,11 +26,13 @@ See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.
 
 ---
 
-## 🚪Door
+## 🚪Front Door 
+
+> 
 
 > #### **[🖵 liquidock](https://github,com/ws-sam/liquidock)** 
 
-> #### **[claude-mileage](https://github.com/ws-sam/claude-mileage)** 
+> #### **[⌁ claude-mileage](https://github.com/ws-sam/claude-mileage)** 
 
 > #### **[chopsticks](https://chopsticks.wokspec.org)**
 
