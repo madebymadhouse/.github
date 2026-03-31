@@ -11,7 +11,7 @@ WokSpec is at an early stage — we're building Web3 and AI infrastructure and a
 | **Orinadus** | Web3 research & intelligence platform — on-chain analysis, DeFi research, AI Authors | Active |
 | **Autiladus** | Client services — sites, systems, automations. Small team, fast delivery | Active |
 | **NQITA** | AI companion with OS-level overlay — moods, memory, persistent presence | Private beta |
-| **WokStudio** | Internal tooling and infrastructure | Internal |
+| **Studio capabilities** | Internal tooling and infrastructure currently housed inside the private `wokspec-website` repo | Internal |
 | **WokAPI** | Auth, billing, product registry | Internal |
 
 ---
