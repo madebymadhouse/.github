@@ -24,8 +24,6 @@ If any of that fits, or if you have any questions, concerns, anything at all... 
 
 See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.md) for the full breakdown of open roles and how to get involved.
 
-> **[Samuel's](https://github.com/ws-sam) Note:** I'm one guy with a laptop and a dream. Early stage means every role matters. I need extensive amounts of help.
-
 ---
 
 [wokspec.org](https://wokspec.org) · [hello@wokspec.org](mailto:hello@wokspec.org) · [@wokspec](https://x.com/wokspec)
