@@ -6,8 +6,6 @@
 
 ## ☂︎ Umbrella
 
-### **[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics 
-
 ---
 
 ## Looking for Contributors
@@ -25,6 +23,10 @@ If any of that fits, or if you have any questions, concerns, anything at all... 
 See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.md) for the full breakdown of open roles and how to get involved.
 
 ---
+
+## 🚪Door
+
+### **[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics 
 
 > #### **[🖵 liquidock](https://github,com/ws-sam/liquidock)** 
 
