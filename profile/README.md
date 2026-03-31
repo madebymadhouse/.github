@@ -6,9 +6,9 @@
 
 ## ☂︎ Umbrella
 
-### **[Orinadus](https://orinadus.wokspec.org)** — AI Evaluation & Informatics 
+### **[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics 
 
-> **[claude-mileage](https://orinadus.wokspec.org)** 
+> **[claude-mileage](https://github.com/ws-sam/claude-mileage)** 
 
 > **[chopsticks](https://chopsticks.wokspec.org)**
 
