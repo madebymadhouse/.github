@@ -1,6 +1,6 @@
 # 🏠︎ WokSpec
 
-> Samuel's independent build house.
+> Samuel's independent build house. 
 
 ---
 
@@ -8,11 +8,13 @@
 
 ### **[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics 
 
+---
+
 > **[👺 claude-mileage](https://github.com/ws-sam/claude-mileage)** 
 
 > **[🥢 Chopsticks](https://chopsticks.wokspec.org)**
 
-> **[⎅ Liquidock](https://github,com/ws-sam/liquidock)** 
+> **[⎅  Liquidock](https://github,com/ws-sam/liquidock)** 
 
 > **[🦊 Witgam](https://github,com/witgam)** 
 
@@ -35,3 +37,5 @@ See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.
 ---
 
 [wokspec.org](https://wokspec.org) · [hello@wokspec.org](mailto:hello@wokspec.org) · [@wokspec](https://x.com/wokspec)
+
+---
