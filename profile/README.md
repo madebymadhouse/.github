@@ -10,7 +10,7 @@
 
 ---
 
-## Looking for Contributors
+> ## Looking for Contributors
 
 > - **Designers** — UI/UX for Web3 dashboards and data interfaces
 > - **Artists / Illustrators** — Nqita character art, game assets, brand visuals  
