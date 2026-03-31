@@ -1,18 +1,12 @@
 # 🏠︎ WokSpec
 
+> Samuel's independent build house.
+
 ---
 
 ## ☂︎ Umbrella
 
-**[Orinadus](https://orinadus.wokspec.org)** 
-
----
-
-## Stack
-
-- **Web3**: Ethereum, Solana, Base, Arbitrum — wallets, on-chain data, cross-chain
-- **AI**: Claude, Grok, Llama — model orchestration, persistent memory, Web3-aware agents
-- **Infrastructure**: Cloudflare Workers, D1, R2 — edge-first, no VMs
+- **[Orinadus](https://orinadus.wokspec.org)** — AI Evaluation & Informatics 
 
 ---
 
@@ -34,4 +28,4 @@ See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.
 
 ---
 
-[wokspec.org](https://wokspec.org) · [hello@wokspec.org](mailto:hello@wokspec.org) · [@wokspec](https://x.com/wokspec) 
+[wokspec.org](https://wokspec.org) · [hello@wokspec.org](mailto:hello@wokspec.org) · [@wokspec](https://x.com/wokspec)
