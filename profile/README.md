@@ -1,4 +1,4 @@
-# WokSpec
+# 🏠︎ WokSpec
 
 ---
 
