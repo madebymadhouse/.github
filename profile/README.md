@@ -10,16 +10,6 @@
 
 ---
 
-> #### **[🖵 liquidock](https://github,com/ws-sam/liquidock)** 
-
-> #### **[claude-mileage](https://github.com/ws-sam/claude-mileage)** 
-
-> #### **[Chopsticks](https://chopsticks.wokspec.org)**
-
-> #### **[🦊 witgam](https://github,com/witgam)** 
-
----
-
 ## Looking for Contributors
 
 - **Designers** — UI/UX for Web3 dashboards and data interfaces
@@ -33,6 +23,16 @@
 If any of that fits, or if you have any questions, concerns, anything at all... feel free to simply just reach out: [hello@wokspec.org](mailto:hello@wokspec.org)
 
 See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.md) for the full breakdown of open roles and how to get involved.
+
+---
+
+> #### **[🖵 liquidock](https://github,com/ws-sam/liquidock)** 
+
+> #### **[claude-mileage](https://github.com/ws-sam/claude-mileage)** 
+
+> #### **[chopsticks](https://chopsticks.wokspec.org)**
+
+> #### **[🦊 witgam](https://github,com/witgam)** 
 
 ---
 
