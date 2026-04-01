@@ -27,9 +27,10 @@ See [CONTRIBUTING.md](https://github.com/wokspec/.github/blob/main/CONTRIBUTING.
 
 ## Building... 
 
+
 > ### **[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics
 
----
+
 
 > #### **[🖵 liquidock](https://github,com/ws-sam/liquidock)** 
 
