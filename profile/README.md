@@ -1,4 +1,4 @@
-# 🏠︎ WokSpec
+# [🏠︎ WokSpec](https://wokspec.org)
 
 > An independent build house. 
 
