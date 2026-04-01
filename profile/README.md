@@ -1,6 +1,6 @@
 # 🏠︎ WokSpec
 
-> Samuel's independent build house. 
+> An independent build house. 
 
 ---
 
