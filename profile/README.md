@@ -6,7 +6,7 @@
 
 ## ☂︎ Umbrella
 
-### **[⍜ Orinadus](https://orinadus.com)** — AI Evaluation & Informatics 
+### **[Orinadus](https://orinadus.com)** — AI Evaluation & Informatics 
 
 ---
 
