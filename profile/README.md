@@ -4,11 +4,6 @@
 
 ---
 
-## **[Orinadus.com](https://orinadus.com)**
-> AI evaluation & informatics.
-
----
-
 ### 目 Shelf
 > Open-source projects, etc.
 
