@@ -8,9 +8,11 @@
 
 ---
 
-### 目 Open-source
+### 目 Incubating Shelf
 
-| ☰ | Description |
+> Open-source projects, etc.
+
+| Project | Description |
 |---|---|
 | **[nqita-cli](https://github.com/wokspec/nqita-cli)** | agent-agnostic companion runtime |
 | **[token-tengu](https://github.com/wokspec/token-tengu)** | local context prep for the Claude CLI |
