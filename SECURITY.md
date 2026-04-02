@@ -2,43 +2,39 @@
 
 ## Supported Versions
 
-WokSpec maintains security patches for the current production deployment of each product. Older versions or self-hosted forks are not covered by this policy.
+Security patches are maintained for the current version of each active project.
 
-| Product | Supported |
+| Project | Supported |
 |---------|-----------|
-| WokTool (current) | ✅ |
+| nqita-cli (current) | ✅ |
+| LiDock (current) | ✅ |
+| token-tengu (current) | ✅ |
 | Chopsticks (current) | ✅ |
-| Eral (current) | ✅ |
-| Dilu (current) | ✅ |
-| Vecto (current) | ✅ |
-| WokGen (current) | ✅ |
-| WokPost (current) | ✅ |
-| WokAPI (current) | ✅ |
 
 ---
 
 ## Reporting a Vulnerability
 
-**Please do not open a public GitHub issue for security vulnerabilities.**
+**Do not open a public GitHub issue for security vulnerabilities.**
 
-Report privately via one of these channels:
+Report privately:
 
-1. **GitHub Security Advisory** (preferred): Use the "Report a vulnerability" button on the affected repo's Security tab
-2. **Email**: security@wokspec.org
+1. **GitHub Security Advisory** (preferred) — use the "Report a vulnerability" button on the affected repo's Security tab
+2. **Email** — security@wokspec.org
 
 Include:
 - A clear description of the vulnerability
 - Steps to reproduce
-- The potential impact
+- Potential impact
 - Any suggested mitigations
 
 ---
 
 ## What to Expect
 
-- We'll acknowledge your report within 48 hours
-- We aim to ship a fix within 14 days for critical issues
-- We'll credit you in the changelog (unless you prefer to stay anonymous)
+- Acknowledgement within 48 hours
+- Fix targeted within 14 days for critical issues
+- Credit in the changelog unless you prefer to stay anonymous
 
 ---
 
@@ -48,7 +44,7 @@ In-scope:
 - Authentication and authorization bypasses
 - Remote code execution
 - Data exposure (user data, API keys, tokens)
-- Cross-site scripting (XSS) in WokTool or other web apps
+- XSS in web-facing surfaces
 - CSRF vulnerabilities
 - Injection attacks (SQL, command, etc.)
 - Secrets committed to git history
@@ -57,10 +53,10 @@ Out of scope:
 - Self-hosted deployments with misconfigured secrets
 - Social engineering
 - Physical attacks
-- Issues in third-party dependencies that are already publicly disclosed (report upstream)
+- Issues in third-party dependencies already publicly disclosed (report upstream)
 
 ---
 
 ## Responsible Disclosure
 
-We follow a coordinated disclosure model. Please give us reasonable time to fix the issue before publishing details publicly.
+We follow a coordinated disclosure model. Please give us reasonable time to fix before publishing details publicly.
