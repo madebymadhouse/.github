@@ -16,7 +16,7 @@ Get up and running on any House by Wokspec repo.
 ## Quick Start
 
 ```bash
-git clone git@github.com:ws-house/<repo>.git
+git clone git@github.com:househq/<repo>.git
 cd <repo>
 npm ci          # or: pnpm install
 npm run dev
@@ -28,10 +28,10 @@ npm run dev
 
 | Repo | Stack | Notes |
 |------|-------|-------|
-| [chopsticks](https://github.com/ws-house/chopsticks) | Node.js, discord.js | Discord bot |
-| [nqita-cli](https://github.com/ws-house/nqita-cli) | TypeScript, Node.js | Local daemon + CLI |
-| [lidock](https://github.com/ws-house/lidock) | TypeScript, React, pnpm workspace | Dock runtime monorepo |
-| [token-tengu](https://github.com/ws-house/token-tengu) | TypeScript, Node.js | CLI tool |
+| [chopsticks](https://github.com/househq/chopsticks) | Node.js, discord.js | Discord bot |
+| [nqita-cli](https://github.com/househq/nqita-cli) | TypeScript, Node.js | Local daemon + CLI |
+| [lidock](https://github.com/househq/lidock) | TypeScript, React, pnpm workspace | Dock runtime monorepo |
+| [token-tengu](https://github.com/househq/token-tengu) | TypeScript, Node.js | CLI tool |
 
 ---
 

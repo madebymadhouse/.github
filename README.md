@@ -1,4 +1,4 @@
-# ws-house/.github
+# househq/.github
 
 Organization profile and community health files for [House by Wokspec](https://house.wokspec.org).
 
