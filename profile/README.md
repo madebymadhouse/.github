@@ -59,6 +59,6 @@ Do not open public issues for vulnerabilities. Report privately:
 - **GitHub Security Advisory** — "Report a vulnerability" on the affected repo
 - **Email** — [security@wokspec.org](mailto:security@wokspec.org)
 
-See [SECURITY.md](./SECURITY.md) for the full policy. We acknowledge within 48 hours.
+> See [SECURITY.md](./SECURITY.md) for the full policy.
 
 ---
