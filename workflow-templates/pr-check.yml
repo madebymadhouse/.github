@@ -27,7 +27,9 @@ jobs:
           docker run --rm \
             -v "$PWD:/repo" \
             ghcr.io/gitleaks/gitleaks:latest \
-            detect --source=/repo --verbose --redact --no-banner
+            git /repo \
+            --log-opts="${{ github.event.pull_request.base.sha }}..${{ github.event.pull_request.head.sha }}" \
+            --verbose --redact --no-banner
 
   commit-lint:
     name: Commit lint
@@ -45,7 +47,7 @@ jobs:
           node-version: '22'
 
       - name: Install commitlint
-        run: npm install --no-save @commitlint/cli @commitlint/config-conventional
+        run: npm install --no-save --legacy-peer-deps @commitlint/cli @commitlint/config-conventional
 
       - name: Lint commits
         run: |
